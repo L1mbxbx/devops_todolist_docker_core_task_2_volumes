@@ -19,7 +19,7 @@ docker pull limbx/todoapp:2.0.0
 ### Clone the Repository
 If you're working with the source code, clone the project repository:
 
-git clone (https://github.com/L1mbxbx/devops_todolist_docker_core_task_2_volumes/tree/develop) cd devops_todolist
+git clone https://github.com/L1mbxbx/devops_todolist_docker_core_task_2_volumes/tree/develop cd devops_todolist
 
 ## Building your application
 
