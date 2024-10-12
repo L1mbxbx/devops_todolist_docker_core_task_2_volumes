@@ -5,6 +5,7 @@ This is a simple Django-based To-Do List application built with Docker.
 You can find the Docker images for this application on Docker Hub:
 
 https://hub.docker.com/repository/docker/limbx/mysql-local/general
+
 https://hub.docker.com/repository/docker/limbx/todoapp/general
 
 To pull the image from Docker Hub
@@ -17,7 +18,7 @@ docker pull limbx/todoapp:2.0.0
 ### Clone the Repository
 If you're working with the source code, clone the project repository:
 
-git clone ###### cd devops_todolist
+git clone L1mbxbx/devops_todolist_docker_core_task_2_volumes cd devops_todolist
 
 ## Building your application
 
