@@ -11,6 +11,7 @@ https://hub.docker.com/repository/docker/limbx/todoapp/general
 To pull the image from Docker Hub
 
 docker pull limbx/mysql-local:1.0.0
+
 docker pull limbx/todoapp:2.0.0
 
 ## GitHub
@@ -18,7 +19,7 @@ docker pull limbx/todoapp:2.0.0
 ### Clone the Repository
 If you're working with the source code, clone the project repository:
 
-git clone L1mbxbx/devops_todolist_docker_core_task_2_volumes cd devops_todolist
+git clone (https://github.com/L1mbxbx/devops_todolist_docker_core_task_2_volumes/tree/develop) cd devops_todolist
 
 ## Building your application
 
