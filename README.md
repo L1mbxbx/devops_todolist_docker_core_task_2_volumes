@@ -26,7 +26,7 @@ git clone https://github.com/L1mbxbx/devops_todolist_docker_core_task_2_volumes/
 ### Step 1: Building the Docker volume
 If you want to create docker volume to store your data persistantly, run:
 
-docker volume create app-data
+docker volume create my-mysql-data
 
 ### Step 2: Building the Docker Image for database
 If you want to build the Docker image for database, run:
